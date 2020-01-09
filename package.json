@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "react-native-electrode-bridge": "1.5.x"
+    "react-native-electrode-bridge": "1.5.19"
   },
   "description": "ERN Generated API for movies",
   "devDependencies": {
